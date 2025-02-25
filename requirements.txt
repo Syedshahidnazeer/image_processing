@@ -1,2 +1,5 @@
-Pillow
+streamlit
 opencv-python
+numpy
+pandas
+Pillow
